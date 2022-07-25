@@ -5,10 +5,10 @@ modcloth.xlsx 와 renttherunway.xlsx 데이터를 통합처리하는 소스
 (데이터 분석과정 추가 전처리 필요 할 수 있음)
 
 통합된 파일은 아래 경로의 이름으로 저장됨
-dataset/modcolth_rentway_integra_data.xlsx
+./dataset/modcolth_rentway_integra_data.xlsx
 
 
-(2) mc_df_cp.xlsx, rr_df_cp.xlsx : 
+(2) ./dataset/mc_df_cp.xlsx, ./dataset/rr_df_cp.xlsx : 
 
 modcolth_rentway_integra_data.xlsx 통합 데이터를 생성하기 위해
 modcloth.xlsx 와 renttherunway.xlsx 에서 불러온 데이터를 1차적으로
