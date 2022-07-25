@@ -14,3 +14,13 @@ modcolth_rentway_integra_data.xlsx 통합 데이터를 생성하기 위해
 modcloth.xlsx 와 renttherunway.xlsx 에서 불러온 데이터를 1차적으로
 preprocessing 한 데이터 
 
+
+
+
+(3) cloth recommendation_EDA_KDY.ipynb
+modcloth.xlsx 데이터 전처리를 수행하기 위한 소스
+
+(4) cloth recommendation_ML_KDY.ipynb
+modcloth.xlsx 데이터분석을 수행하기 위한 소스
+
+dataset/modcloth_preprocessing.xlsx : 분석을 위해 modcloth.xlsx을 전처리 수행한 데이터
