@@ -26,3 +26,5 @@ modcloth.xlsx 데이터분석을 수행하기 위한 소스
 dataset/modcloth_preprocessing.xlsx : 분석을 위해 modcloth.xlsx을 전처리 수행한 데이터
 dataset/modcloth_preprocessing2.xlsx : 뒤에 번호가 더 붙을 수록 추가적인 전처리가 더 수행된 것임 
 dataset/modcloth_preprocessing3.xlsx 
+
+(5) test
